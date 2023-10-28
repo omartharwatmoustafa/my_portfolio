@@ -614,6 +614,10 @@ h3.my-profession {
 .portfolio .portfolio-item-inner .portfolio-img img {
     width: 100%;
 }
+.portfolio .portfolio-item-inner .project-title{
+    text-align: center;
+    color: var(--text-black-900);
+}
 
 /* portfolio styling end  */
 /* contact me styling start */
